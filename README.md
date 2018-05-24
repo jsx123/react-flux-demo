@@ -14,7 +14,7 @@ Install the demo.
 
 ```bash
 $ git clone git@git@github.com:jsx123/react-flux-demo.git
-$ cd extremely-simple-flux-demo && npm install
+$ cd react-flux-demo && npm install
 $ npm start
 ```
 
